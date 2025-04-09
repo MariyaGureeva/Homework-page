@@ -5,4 +5,4 @@
 
 ## А здесь будет картинка
 
-![Красиво]("C:\Users\konta\Desktop\Homework-test\doroga_asfalt_razmetka_130996_3840x2160.jpg")
+![Красиво](https://github.com/MariyaGureeva/Homework-page/blob/main/doroga_asfalt_razmetka_130996_3840x2160.jpg)
